@@ -23,8 +23,9 @@ Useful resources include:
 
 ## Lectures
 
-* **L01: introduction** [[vidoe]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](my_notes/L01_intro.pdf)
-* 
+* **L01: introduction** [[video]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](notes/L01_intro.pdf)
+
+
 
 ## Lecture notes
 
