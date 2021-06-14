@@ -32,21 +32,18 @@ Abbreviations
 
 ## Lectures
 
-1. **Introduction & basic concepts:** [[video]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](notes/l01_intro.pdf)
-2. Supervised learning setup & linear regression: supervised learning/regression, linear regression, squared error cost function, batch/stochastic gradient descent, normal equation
+1. **Introduction & basic concepts**: [[video]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](notes/l01_intro.pdf)
+2. **Supervised learning setup & linear regression**: supervised learning/regression, linear regression, squared error cost function, batch/stochastic gradient descent, normal equation [[video]](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2&t=3127s) [[my notes]](notes/l02_ols.pdf) [[handouts]](lectures/01_discriminative_algorithms.pdf)
 
 
 
 ## Discussion sections
 
-* D01
-
 
 
 ## Problem sets
 
-* P01
 
-  
 
 ## Extras
+
