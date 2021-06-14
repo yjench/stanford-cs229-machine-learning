@@ -21,19 +21,32 @@ Useful resources include:
 
 
 
+Abbreviations
+
+* l01: lecture
+* d01: discussion sections
+* ps1:
+* e01
+
+
+
 ## Lectures
 
-* **L01: introduction** [[video]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](notes/L01_intro.pdf)
-
-
-
-## Lecture notes
+1. **Introduction & basic concepts:** [[video]](https://www.youtube.com/watch?v=jGwO_UgTS7I) [[my notes]](notes/l01_intro.pdf)
+2. Supervised learning setup & linear regression: supervised learning/regression, linear regression, squared error cost function, batch/stochastic gradient descent, normal equation
 
 
 
 ## Discussion sections
 
+* D01
 
+
+
+## Problem sets
+
+* P01
+
+  
 
 ## Extras
-
